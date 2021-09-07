@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Whiisky">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whiisky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiisky&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whisky54&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whisky54&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@
   <a href="https://www.instagram.com/whisky.szz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
   
-  ![Snake animation](https://github.com/Whiisky/Whiisky/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Whisky54/Whisky54/blob/output/github-contribution-grid-snake.svg)
  
 </div>
