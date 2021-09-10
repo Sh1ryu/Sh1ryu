@@ -1,4 +1,4 @@
-## Whisky
+## Hades
 
 <div>
   <a href="https://github.com/Whiisky">
