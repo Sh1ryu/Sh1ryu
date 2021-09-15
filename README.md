@@ -19,7 +19,7 @@
 <div> 
  
   <a href="https://www.youtube.com/channel/UC4G9mRsDluEQtHI2RkttD3A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/whisky.szz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lovedhades/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
   
   ![Snake animation](https://github.com/Raw4File/Raw4File/blob/output/github-contribution-grid-snake.svg)
