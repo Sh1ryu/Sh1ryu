@@ -1,9 +1,9 @@
 ## Second
 
 <div>
-  <a href="https://github.com/Second54">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Second54&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Second54&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Command47">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Command47&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Command47&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@
   <a href="https://www.instagram.com/pedro_henrique.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a>
   
-  ![Snake animation](https://github.com/Second54/Second54/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Command47/Command47/blob/output/github-contribution-grid-snake.svg)
  
 </div>
