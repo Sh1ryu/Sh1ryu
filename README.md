@@ -4,6 +4,7 @@
   <a href="https://github.com/OldCourtesy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OldCourtesy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldCourtesy&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://youtu.be/dQw4w9WgXcQ" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" /></a>
 </div>
   
 <div style="display: inline_block"><br>
