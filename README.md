@@ -23,8 +23,7 @@ class AbhigyanTrips():
     self.name = "Pedro Henrique";
     self.username = "HadesFofo54";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.instagram = "@not_ph_1";
   
   def __str__(self):
     return self.name
