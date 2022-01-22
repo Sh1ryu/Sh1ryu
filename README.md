@@ -20,9 +20,9 @@ e estudando programação com pequenos projetos.
 class AbhigyanTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
+    self.name = "Pedro Henrique";
+    self.username = "HadesFofo54";
+    self.location = "Goiás, Aparecida de Goiânia";
     self.twitter = "@abhigyantrips";
     self.web = "https://abhigyantrips.dev";
   
