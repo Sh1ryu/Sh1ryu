@@ -59,3 +59,9 @@ if __name__ == '__main__':
 <br>
 
 [![HadesFofo54' Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=HadesFofo54&custom_title=HadesFofo54%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+
+<div> 
+  
+  ![Snake animation](https://github.com/HadesFofo54/HadesFofo54/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
