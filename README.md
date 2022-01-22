@@ -3,7 +3,7 @@
 </h1>
 
 Olaa, Eu sou o Hades, um estudante vivendo em Goiás, Aparecida de Goiânia, música favorita: 
-<a href="https://www.youtube.com/watch?v=fBQHjpeDO-U">ALNC</a>, 
+<a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Cabelos Arco-íris</a>, 
 e estudando programação com pequenos projetos.
 
 <br>
