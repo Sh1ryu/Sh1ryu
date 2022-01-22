@@ -17,7 +17,7 @@ e estudando programação com pequenos projetos.
 </p>
 
 ```python
-class AbhigyanTrips():
+class HadesFofo54():
     
   def __init__(self):
     self.name = "Pedro Henrique";
