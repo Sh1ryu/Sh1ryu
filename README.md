@@ -18,11 +18,11 @@ estudando programação e desenvolvendo pequenos projetos.
 </p>
 
 ```python
-class HadesFofo54():
+class ImAHades():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "HadesFofo54";
+    self.username = "ImAHades";
     self.location = "Goiás, Aparecida de Goiânia";
     self.instagram = "@not_ph_1";
   
@@ -30,7 +30,7 @@ class HadesFofo54():
     return self.name
 
 if __name__ == '__main__':
-    me = HadesFofo54()
+    me = ImAHades()
 ```
 
 <div align="center">
@@ -52,16 +52,16 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://www.instagram.com/not_ph_1/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HadesFofo54&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=HadesFofo54&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ImAHades&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImAHades&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-![HadesFofo54' Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=HadesFofo54&custom_title=HadesFofo54%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![ImAHades' Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=HadesFofo54&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 <div> 
   
-  ![Snake animation](https://github.com/HadesFofo54/HadesFofo54/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
  
 </div>
