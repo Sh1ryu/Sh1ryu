@@ -65,4 +65,5 @@ if __name__ == '__main__':
   <img src="https://www.99images.com/download-image/856489/5120x1440">
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
  -->
+  <br>
 </div>
