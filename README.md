@@ -39,7 +39,7 @@ if __name__ == '__main__':
   </a>
 </div>
 
-<!--
+<!-
 <div align="center">
   <a href="https://open.spotify.com/user/31vzxqncbvslztn4rv7hev6yy7qa">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
