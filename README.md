@@ -58,7 +58,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
 
 <div> 
   
