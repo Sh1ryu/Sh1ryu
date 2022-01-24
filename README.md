@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://open.spotify.com/user/31vzxqncbvslztn4rv7hev6yy7qa">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing/api?scan=true&theme=dark">
   </a>
 </div>
 
