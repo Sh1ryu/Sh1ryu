@@ -58,7 +58,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-![ImAHades' Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![ImAHades Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 <div> 
   
