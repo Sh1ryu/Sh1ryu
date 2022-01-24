@@ -60,5 +60,7 @@ if __name__ == '__main__':
 
 [![ImAHades Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://instagram.com/not_ph_1)
 
+  ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
+
 
 
