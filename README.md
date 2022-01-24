@@ -57,13 +57,10 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-<!--
 [![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
--->
-<div> 
-  <!--
-  <img src="https://www.99images.com/download-image/856489/5120x1440">
+<div>
+  
+  [![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
+  
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
- -->
-  <br/>
 </div>
