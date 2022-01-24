@@ -66,4 +66,5 @@ if __name__ == '__main__':
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
  -->
   <br>
+<br/>
 </div>
