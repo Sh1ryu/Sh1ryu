@@ -57,9 +57,9 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
+<!--
 [![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
-
+-->
 <div> 
   
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
