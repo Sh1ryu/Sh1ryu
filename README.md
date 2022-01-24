@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://open.spotify.com/user/31vzxqncbvslztn4rv7hev6yy7qa">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing/api?scan=true&theme=dark">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
@@ -61,8 +61,8 @@ if __name__ == '__main__':
 [![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
 -->
 <div> 
-  <img src="https://www.99images.com/download-image/856489/5120x1440">
   <!--
+  <img src="https://www.99images.com/download-image/856489/5120x1440">
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
  -->
 </div>
