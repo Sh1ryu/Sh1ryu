@@ -57,10 +57,9 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-[![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
 <div>
-  
-  [![ImAHades Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades)](https://github.com/ImAHades/github-readme-activity-graph)
-  
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
 </div>
