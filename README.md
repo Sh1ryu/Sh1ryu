@@ -2,9 +2,9 @@
   <b>Hades</b>
 </h1>
 
-Olaa, Eu sou o Hades, um estudante vivendo em Goiás, Aparecida de Goiânia, música favorita: 
-<a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Cabelos Arco-íris</a>, 
-estudando programação e desenvolvendo pequenos projetos.
+Hello, I'm Hades, a student living in Goiás, Aparecida de Goiânia, favorite song:
+<a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
+studying programming and developing small projects.
 
 <br>
 
@@ -24,7 +24,7 @@ class ImAHades():
     self.name = "Pedro Henrique";
     self.username = "ImAHades";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.instagram = "@not_ph_1";
+    self.instagram = "@im_a_hades";
   
   def __str__(self):
     return self.name
@@ -47,18 +47,18 @@ if __name__ == '__main__':
 </div>
 -->
 
-## Minhas Estatísticas
+## My Statistics
 
 <br/>
 <p align="left">
-  <a href="https://instagram.com/not_ph_1">
+  <a href="https://www.instagram.com/im_a_hades/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ImAHades&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImAHades&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![ImAHades Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://instagram.com/not_ph_1)
+[![ImAHades Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/im_a_hades/)
 
   ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
 
