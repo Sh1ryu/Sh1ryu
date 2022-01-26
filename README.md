@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Hades</b>
+  <b>Asamy</b>
 </h1>
 
-Hello, I'm Hades, a student living in Goiás, Aparecida de Goiânia, favorite song:
+Hello, I'm Asamy, a student living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
 studying programming and developing small projects.
 
@@ -18,11 +18,11 @@ studying programming and developing small projects.
 </p>
 
 ```python
-class ImAHades():
+class IAmAsamy():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "ImAHades";
+    self.username = "IAmAsamy";
     self.location = "Goiás, Aparecida de Goiânia";
     self.instagram = "@im_a_hades";
   
@@ -30,7 +30,7 @@ class ImAHades():
     return self.name
 
 if __name__ == '__main__':
-    me = ImAHades()
+    me = IAmAsamy()
 ```
 
 <div align="center">
@@ -52,15 +52,15 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://www.instagram.com/im_a_hades/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ImAHades&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImAHades&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IAmAsamy&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IAmAsamy&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![ImAHades Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImAHades&custom_title=ImAHades%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/im_a_hades/)
+[![IAmAsamy Activity Graph](https://activity-graph.herokuapp.com/graph?username=IAmAsamy&custom_title=IAmAsamy%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/im_a_hades/)
 
-  ![Snake animation](https://github.com/ImAHades/ImAHades/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IAmAsamy/IAmAsamy/blob/output/github-contribution-grid-snake.svg)
 
 
 
