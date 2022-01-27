@@ -52,8 +52,8 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://www.instagram.com/im_a_hades/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IAmAsamy&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IAmAsamy&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LinuxArina&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LinuxArina&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
