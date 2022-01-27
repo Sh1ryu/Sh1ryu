@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Asamy</b>
+  <b>Linux</b>
 </h1>
 
-Hello, I'm Asamy, a student living in Goiás, Aparecida de Goiânia, favorite song:
+Hello, I'm Linux, a student living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
 studying programming and developing small projects.
 
@@ -18,11 +18,11 @@ studying programming and developing small projects.
 </p>
 
 ```python
-class IAmAsamy():
+class LinuxArina():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "IAmAsamy";
+    self.username = "LinuxArina";
     self.location = "Goiás, Aparecida de Goiânia";
     self.instagram = "@im_a_hades";
   
@@ -30,7 +30,7 @@ class IAmAsamy():
     return self.name
 
 if __name__ == '__main__':
-    me = IAmAsamy()
+    me = LinuxArina()
 ```
 
 <div align="center">
@@ -58,9 +58,9 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![IAmAsamy Activity Graph](https://activity-graph.herokuapp.com/graph?username=IAmAsamy&custom_title=IAmAsamy%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/im_a_hades/)
+[![LinuxArina Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinuxArina&custom_title=LinuxArina%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/im_a_hades/)
 
-  ![Snake animation](https://github.com/IAmAsamy/IAmAsamy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LinuxArina/LinuxArina/blob/output/github-contribution-grid-snake.svg)
 
 
 
