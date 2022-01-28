@@ -19,11 +19,11 @@ studying programming and developing small projects.
 </p>
 
 ```python
-class Aztry7():
+class Aztry6():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "Aztry7";
+    self.username = "Aztry6";
     self.location = "Goiás, Aparecida de Goiânia";
     self.instagram = "@fvckaztry";
   
@@ -31,7 +31,7 @@ class Aztry7():
     return self.name
 
 if __name__ == '__main__':
-    me = Aztry7()
+    me = Aztry6()
 ```
 
 <div align="center">
@@ -53,15 +53,15 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://www.instagram.com/fvckaztry/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aztry7&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aztry7&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aztry6&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aztry6&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Aztry Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aztry7&custom_title=Aztry%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/fvckaztry/)
+[![Aztry Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aztry6&custom_title=Aztry%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/fvckaztry/)
 
-  ![Snake animation](https://github.com/Aztry7/Aztry7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Aztry6/Aztry6/blob/output/github-contribution-grid-snake.svg)
 
 
 
