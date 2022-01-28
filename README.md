@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Linux</b>
+  <b>Aztry</b>
 </h1>
 
-Hello, I'm Linux, a student living in Goiás, Aparecida de Goiânia, favorite song:
+Hello, I'm Aztry, a student living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
 studying programming and developing small projects.
 
@@ -19,19 +19,19 @@ studying programming and developing small projects.
 </p>
 
 ```python
-class LinuxArina():
+class Aztry7():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "LinuxArina";
+    self.username = "Aztry7";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.instagram = "@im_a_hades";
+    self.instagram = "@fvckaztry";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = LinuxArina()
+    me = Aztry7()
 ```
 
 <div align="center">
@@ -52,16 +52,16 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://www.instagram.com/im_a_hades/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LinuxArina&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LinuxArina&theme=gruvbox&hide_border=true" />
+  <a href="https://www.instagram.com/fvckaztry/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aztry7&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aztry7&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![LinuxArina Activity Graph](https://activity-graph.herokuapp.com/graph?username=LinuxArina&custom_title=LinuxArina%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/im_a_hades/)
+[![Aztry Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aztry7&custom_title=Aztry%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/fvckaztry/)
 
-  ![Snake animation](https://github.com/LinuxArina/LinuxArina/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Aztry7/Aztry7/blob/output/github-contribution-grid-snake.svg)
 
 
 
