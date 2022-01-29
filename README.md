@@ -25,7 +25,7 @@ class Aztry6():
     self.name = "Pedro Henrique";
     self.username = "Aztry6";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.instagram = "@fvckaztry";
+    self.twitter = "@fvckaztry";
   
   def __str__(self):
     return self.name
@@ -52,14 +52,14 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://www.instagram.com/fvckaztry/">
+  <a href="https://twitter.com/fvckaztry">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aztry6&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aztry6&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Aztry Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aztry6&custom_title=Aztry%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.instagram.com/fvckaztry/)
+[![Aztry Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aztry6&custom_title=Aztry%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/fvckaztry/)
 
   ![Snake animation](https://github.com/Aztry6/Aztry6/blob/output/github-contribution-grid-snake.svg)
 
