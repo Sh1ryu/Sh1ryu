@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Aztry</b>
+  <b>PedroYusuke</b>
 </h1>
 
-Hello, I'm Aztry, a student living in Goiás, Aparecida de Goiânia, favorite song:
+Hello, I'm Pedro, a student living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
 studying programming and developing small projects.
 
@@ -19,11 +19,11 @@ studying programming and developing small projects.
 </p>
 
 ```python
-class Aztry6():
+class PedroYusuke():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "Aztry6";
+    self.username = "PedroYusuke";
     self.location = "Goiás, Aparecida de Goiânia";
     self.twitter = "@fvckaztry";
   
@@ -31,7 +31,7 @@ class Aztry6():
     return self.name
 
 if __name__ == '__main__':
-    me = Aztry6()
+    me = PedroYusuke()
 ```
 
 <div align="center">
@@ -53,15 +53,15 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://twitter.com/fvckaztry">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aztry6&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aztry6&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PedroYusuke&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroYusuke&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Aztry Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aztry6&custom_title=Aztry%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/fvckaztry/)
+[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=PedroYusuke6&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/fvckaztry/)
 
-  ![Snake animation](https://github.com/Aztry6/Aztry6/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PedroYusuke/PedroYusuke/blob/output/github-contribution-grid-snake.svg)
 
 
 
