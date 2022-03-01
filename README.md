@@ -12,6 +12,7 @@ studying programming and developing small projects.
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&logo=java&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
 </div>
 </p>
 
