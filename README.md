@@ -23,7 +23,7 @@ class PedroYusuke():
     self.name = "Pedro Henrique";
     self.username = "PedroYusuke";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.instagram = "@hudetherude";
+    self.twitter = "@NerdNervos0";
   
   def __str__(self):
     return self.name
@@ -50,14 +50,14 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://instagram.com/hudetherude">
+  <a href="https://twitter.com/NerdNervos0">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PedroYusuke&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroYusuke&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=PedroYusuke&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://instagram.com/hudetherude/)
+[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=PedroYusuke&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/NerdNervos0)
 
   ![Snake animation](https://github.com/PedroYusuke/PedroYusuke/blob/output/github-contribution-grid-snake.svg)
 
