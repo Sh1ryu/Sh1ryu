@@ -57,7 +57,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kokushib0&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Nerd_Nervos0)
+[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kokushib0&custom_title=Kokushib0%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Nerd_Nervos0)
 
   ![Snake animation](https://github.com/Kokushib0/Kokushib0/blob/output/github-contribution-grid-snake.svg)
 
