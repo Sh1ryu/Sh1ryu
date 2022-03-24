@@ -23,7 +23,7 @@ class PedroYusuke():
     self.name = "Pedro Henrique";
     self.username = "PedroYusuke";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.twitter = "@NerdNervos0";
+    self.twitter = "@Nerd_Nervos0";
   
   def __str__(self):
     return self.name
@@ -50,16 +50,16 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://twitter.com/NerdNervos0">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kibuttsuji&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kibuttsuji&theme=gruvbox&hide_border=true" />
+  <a href="https://twitter.com/Nerd_Nervos0">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kokushib0&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kokushib0&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=kibuttsuji&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/NerdNervos0)
+[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kokushib0&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Nerd_Nervos0)
 
-  ![Snake animation](https://github.com/kibuttsuji/kibuttsuji/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kokushib0/Kokushib0/blob/output/github-contribution-grid-snake.svg)
 
 
 
