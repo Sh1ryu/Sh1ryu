@@ -23,7 +23,7 @@ class PedroYusuke():
     self.name = "Pedro Henrique";
     self.username = "Kokushib0";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.twitter = "@Nerd_Nervos0";
+    self.twitter = "@Sushi_De_Dragao";
   
   def __str__(self):
     return self.name
@@ -50,14 +50,14 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://twitter.com/Nerd_Nervos0">
+  <a href="https://twitter.com/Sushi_De_Dragao">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Kokushib0&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kokushib0&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Kokushib0 Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kokushib0&custom_title=Kokushib0%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Nerd_Nervos0)
+[![Kokushib0 Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kokushib0&custom_title=Kokushib0%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Sushi_De_Dragao)
 
   ![Snake animation](https://github.com/Kokushib0/Kokushib0/blob/output/github-contribution-grid-snake.svg)
 
