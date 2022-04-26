@@ -21,7 +21,7 @@ class PedroYusuke():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "Kokushib0";
+    self.username = "Shiryiu";
     self.location = "Goiás, Aparecida de Goiânia";
     self.twitter = "@Sushi_De_Dragao";
   
