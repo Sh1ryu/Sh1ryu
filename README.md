@@ -46,7 +46,7 @@ if __name__ == '__main__':
 </div>
 -->
 
-## My Statistics
+## Statistics
 
 <br/>
 <p align="left">
