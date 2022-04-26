@@ -57,9 +57,9 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Kokushib0 Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kokushib0&custom_title=Kokushib0%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Sushi_De_Dragao)
+[![Shiryiu Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shiryiu&custom_title=Shiryiu%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Sushi_De_Dragao)
 
-  ![Snake animation](https://github.com/Kokushib0/Kokushib0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Shiryiu/Shiryiu/blob/output/github-contribution-grid-snake.svg)
 
 
 
