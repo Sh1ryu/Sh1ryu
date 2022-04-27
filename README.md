@@ -4,7 +4,7 @@
 
 Hello, I'm Pedro, a programmer living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
-hobby: programming and developing small projects.
+hobby: program and develop projects,
 
 <br>
 
