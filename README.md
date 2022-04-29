@@ -2,9 +2,9 @@
   <b>PedroYusuke</b>
 </h1>
 
-Hello, I'm Pedro, a tired programmer living in Goiás, Aparecida de Goiânia, favorite song:
+Hello, I'm Pedro, a programmer living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
-hobby: sleep and play games
+hobby: play games and dev.
 
 <br>
 
@@ -23,7 +23,7 @@ class PedroYusuke():
     self.name = "Pedro Henrique";
     self.username = "Shiryiu";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.twitter = "@Sushi_De_Dragao";
+    self.twitter = "@Shiyriyu";
   
   def __str__(self):
     return self.name
@@ -50,14 +50,14 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://twitter.com/Sushi_De_Dragao">
+  <a href="https://twitter.com/Shiyriyu">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shiryiu&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiryiu&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Shiryiu Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shiryiu&custom_title=Shiryiu%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Sushi_De_Dragao)
+[![Shiryiu Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shiryiu&custom_title=Shiryiu%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Shiyriyu)
 
   ![Snake animation](https://github.com/Shiryiu/Shiryiu/blob/output/github-contribution-grid-snake.svg)
 
