@@ -21,7 +21,7 @@ class PedroYusuke():
     
   def __init__(self):
     self.name = "Pedro Henrique";
-    self.username = "Shiryiu";
+    self.username = "PedroYusuke";
     self.location = "Goiás, Aparecida de Goiânia";
     self.twitter = "@Shiyriyu";
   
@@ -51,15 +51,15 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://twitter.com/Shiyriyu">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shiryiu&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiryiu&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PedroYusuke&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroYusuke&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Shiryiu Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shiryiu&custom_title=Shiryiu%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Shiyriyu)
+[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=PedroYusuke&custom_title=PedroYusuke%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Shiyriyu)
 
-  ![Snake animation](https://github.com/Shiryiu/Shiryiu/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PedroYusuke/PedroYusuke/blob/output/github-contribution-grid-snake.svg)
 
 
 
