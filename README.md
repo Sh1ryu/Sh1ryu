@@ -23,7 +23,7 @@ class PedroYusuke():
     self.name = "Pedro Henrique";
     self.username = "Sh1ryu";
     self.location = "Goiás, Aparecida de Goiânia";
-    self.twitter = "@Shiyriyu";
+    self.instagram = "@sh1riyu_";
   
   def __str__(self):
     return self.name
