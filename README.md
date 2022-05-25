@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://twitter.com/Shiyriyu">
+  <a href="https://www.instagram.com/sh1riyu_/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sh1ryu&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1ryu&theme=gruvbox&hide_border=true" />
   </a>
