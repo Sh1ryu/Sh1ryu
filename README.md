@@ -10,9 +10,9 @@ hobby: play games and dev.
 
 <p>
 <div align="center">
+  <img src="https://img.shields.io/badge/-Ruby-98b982?style=for-the-badge&logo=ruby&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&logo=java&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-98b982?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-98b982?style=for-the-badge&logo=mysql&logoColor=98b982&labelColor=282828">
 </div>
 </p>
