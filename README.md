@@ -10,7 +10,7 @@ hobby: play games and dev.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Node Js-98b982?style=for-the-badge&logo=nodejs&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&logo=java&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-98b982?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-98b982?style=for-the-badge&logo=mysql&logoColor=98b982&labelColor=282828">
 </div>
