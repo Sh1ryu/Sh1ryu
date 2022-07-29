@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>PedroYusuke</b>
+  <b>Pedro Henrique</b>
 </h1>
 
 Hello, I'm Pedro, a Back-End Developer living in Goiás, Aparecida de Goiânia, favorite song:
@@ -17,7 +17,7 @@ hobby: play games and dev.
 </p>
 
 ```python
-class PedroYusuke():
+class Pedro Henrique():
     
   def __init__(self):
     self.name = "Pedro Henrique";
@@ -29,7 +29,7 @@ class PedroYusuke():
     return self.name
 
 if __name__ == '__main__':
-    me = PedroYusuke()
+    me = Pedro Henrique()
 ```
 
 <div align="center">
@@ -57,7 +57,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![PedroYusuke Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sh1ryu&custom_title=Sh1ryu%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Shiyriyu)
+[![Pedro Henrique Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sh1ryu&custom_title=Sh1ryu%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://twitter.com/Shiyriyu)
 
   ![Snake animation](https://github.com/Sh1ryu/Sh1ryu/blob/output/github-contribution-grid-snake.svg)
 
