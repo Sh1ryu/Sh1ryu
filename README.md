@@ -5,7 +5,6 @@
 Hello, I'm Pedro, a Back-End Developer living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
 hobby: play games and dev.
-<b>All my projects are private.</b>
 
 <br>
 
