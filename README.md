@@ -2,7 +2,7 @@
   <b>Pedro Henrique</b>
 </h1>
 
-Hello, I'm Pedro, a Front-End Developer living in Goiás, Aparecida de Goiânia, favorite song:
+Hello, I'm Pedro, a Back-End Developer living in Goiás, Aparecida de Goiânia, favorite song:
 <a href="https://www.youtube.com/watch?v=_WfBQBbaDZ4">Rainbow Hair</a>, 
 hobby: play games and dev.
 
@@ -10,8 +10,7 @@ hobby: play games and dev.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-98b982?style=for-the-badge&logo=html5&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS3-98b982?style=for-the-badge&logo=css3&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Kotlin98b982?style=for-the-badge&logo=kotlin&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-98b982?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-Node.js-98b982?style=for-the-badge&logo=node.js&logoColor=98b982&labelColor=282828">
 </div>
